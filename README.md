@@ -2,7 +2,7 @@
 Allowing Trello boards to be (preset) theme-able and adding additional functionality to them.
 
 ## Requirements and usage
-
+### Installation
 Currently ODX-TT is not a stand alone plugin or such, it requires browser plugins. 
 
 The plugins I currently use and reccomend are the following:
@@ -12,6 +12,27 @@ The plugins I currently use and reccomend are the following:
  
 At present testing is done only on the afore mentioned plugins in the latest version of Chrome under windows 8.
 
+### Instructions/functionality 
+
+Some of the header bar is slightly re-arranged. 
+
+The new features are available to the right of the search box the four buttons are as follows:
+
+Any active button/selection will be  highlighted with a white border
+
+- Single-user mode denoted by a "|" in a box. 
+    - This mode takes the current active user (as logged in) and partially hides any cards that are not marked with your account active on them.
+- Multi-user mode denoted by a "|||" in a box.
+    - This button toggles Single-user mode off and expands all cards to normal size.
+- Style sheet selection is an empty box at present.
+    - Clicking this button will toggle the stylesheet selection buttons - an assortment of coloured buttons
+    - The stylesheet buttons are coloured in line with the image they set the background to
+- Further config settings can be accessed via the cog buttong
+    - *this button is currently not active - temporarily*
+
+### Licensing 
+
+Not currently available - until further notice: use and distribute as you see fit - have at it in any way shape or form.
 
 ## Current version: ODX-TT v0.0.4
 
